@@ -1,7 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Without category", El increíble mundo de gumbal
-https://fvs.io/redirector?token=SXE1bDRicUNhekVtRE0xNmxMelc5ZlJxbVMzMmJwN3AvUnlqcjdiaGZHNSsvWko0VjZLN2NGcSt3UFNEaWNVWnB1RVdKek1uS1hUVFpMWlBSclNSVThjTXJqc0t1ZnRVZElta3hrS213bVBZVWhxalZjTFFOeXZoT3kzV1kwWmo6MWdEaklSZjBzUEY2alc5NkdwemsvQT09eoGBVQcit0UUkrVFUwZEJRdU9WbVdmSHpPM2ZjYlR4RjBkU2ZkUH
+#EXTINF:-1 tvg-group"anime", Steven Universe 
+https://s10.zplayer.live/hls/5fxcuaojwknufvsa6lue7ro74qu4zgpwbmpu4bsqc,g5gvkqgeo5lvllqs6dq,p3g3kqgeo5h7t5obn7a,.urlset/master.m3u8
 
-#EXTINF:-1 group-title="Without category", El increíble mundo de gumbal 2
-https://fvs.io/redirector?token=bWZkM095RGNtcHlLaWozdFRtODJXeFBRQ0dDNUovRnMxQ2NaRkc5MmEva2pDQjJoc1dFbWlhT2dGRW9BNlhoL25GbXNVZmpPTzd1SlhsVWoxZXZXK2pNbTVzdTlJbG94bUVQaUVNbkQwc2FsRUpMZ2c0bjVDTi9lUWp2UlpZdG5nK0ZBODljSmFZRXdPd2VPTVluU3lmZWRmQmRBSGZaaWE3MFE6c1BhTktlWHVtOUx6NVM3d0dseDN5Zz09pW7Fk
+#EXTINF:-1 tvg-group"anime", Steven Universe 2
+https://s10.zplayer.live/hls/5fxcuagjwknufvsa6lue7aumwpopmx633ih6jplwg,66pd32oacelfgtwbxtq,xypn32oacehgkflgbxa,.urlset/master.m3u8
+
+
+
+
+
+
+
