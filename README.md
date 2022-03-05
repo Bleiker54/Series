@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Mayor
+#EXTINF:-1, Mayor 1
 https://s1.zplayer.live/hls/,5fxcvqdtxwnufvsa6lcu7twluhg5lu6nq6uila5xszrqum5iamjablmpx47q,.urlset/master.m3u8
 
 
