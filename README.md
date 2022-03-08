@@ -37,7 +37,7 @@ https://fvs.io/redirector?token=UUZpUkRESk1uOUVFSVVLdzFkU1RIQm94aE1tNUNoSnpGMVd4
 
 
 #EXTINF:-1, advent 10
-https://fvs.io/redirector?token=MEhSRFVHcjVOOVlDM0ZMc0htL3I5R28zaEhjK0pzYjFjQUkxRWFBQThXcXpma2dyLzAzS05MbXNPeGtkNUlSK1ZiYzlyZm9QamNHSHFSZDc3cFRqWkdlY09GcnhGVGZDT2JMT2pqMlluRmxyUWszcldkeDJBV2xTVlBZS0ZwdmVsUDAxY2lXeWJCVTBOQjdlWEI1VWhPOURxZ0trM3UvMklGN0I6b016djFEcVB5VFRMakI5T29ObXJRdz09pFuP
+https://s3.zplayer.live/hls/,5fxctgiowwnufvsa6kqe7wok5jqo32l5x2v25jzkjphthm6o77tch2e2vj3a,.urlset/master.m3u8
 
 
 #EXTINF:-1, advent 11
