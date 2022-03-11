@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, alta definición 
-https://fvs.io/redirector?token=SXZqS2cxb1hCc3ZqdHRqVi95aGFWeXNxR2V5REpES2lrU3JWWUEwYXNBaW52TFdJdjltWlpDODJuamFqZ0JicjdIaEZ4dE95VElZeFVLTG15TEFQemc3NDN1Y2tiZWl1cDVPZXJUSXkyTDNSZzNjM0dOK0g2V3ZGQ09XNmZzN3Y0NWJyLzFHSGZyRVdJekk0L1lhNk8vUzNGa1ZNNFI0SmFkbz06aGVLRTkyOXQ0a1BvckZtZzNNSmV5QT09wTpr
+#EXTINF:-1, alt
+
+https://s10.zplayer.live/hls/,5fxcvgwqxwnufvsa6lme7ww7wrjt4jqwlnhqrjkuaa6cd3jwifarr3sc7abq,.urlset/master.m3u8
 
 
 
