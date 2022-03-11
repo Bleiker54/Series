@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, alt
+TINF:-1, alt
 
 https://s10.zplayer.live/hls/,5fxcvgwqxwnufvsa6lme7ww7wrjt4jqwlnhqrjkuaa6cd3jwifarr3sc7abq,.urlset/master.m3u8
 
