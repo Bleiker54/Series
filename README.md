@@ -5,8 +5,8 @@ https://fvs.io/redirector?token=SXZqS2cxb1hCc3ZqdHRqVi95aGFWeXNxR2V5REpES2lrU3JW
 
 
 
-#EXTINF:-1, T
-https://fvs.io/redirector?token=U3FTQ0dqd2lqU2FBVm1WcEdYL1NkMExleTBjdXgvQjJKQ21Ea3E1ZUlzbVY5eGR0dFVJQlJIdTRUL2FnUFFSdk5VRVVEa2FKOW1xMDRTYmlkZStpUFdNYkxDMTVTaVFrWCt4Z0Zlb04wZUFCRDhFeWtjV2VWeDV5eThTdW01WWdXL1NQU1VGNithYndCWVpINlk4R2ZQblkxUStuTmg4RkxhVjA6RlJRL2tIQXpCTjErMFVJRWx4NWgvQT09UMMG
+#EXTINF:-1, pelicula 
+https://s10.zplayer.live/hls/,5fxcvgwqxwnufvsa6lme7ww7wrjt4jqwlnhqrjkuaa6cd3jwifarr3sc7abq,.urlset/master.m3u8
 
 
 #EXTINF:-1, T1 CAP3
