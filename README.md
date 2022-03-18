@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1, n g
-https://fvs.io/redirector?token=cC84R0ozQUZmU280UkcycFlxa3c1K3FwWHA0OFIwbHhiZVJsQ05WRnR4L1BMbS9QMTEzUWdKcmEzL3NyWWkvbHFpTTNSU3BFWXFsdDAzUFFRcDFJRlFIaFFETzhQaXlDd3R6ajIrNXpjckpUdm8rS1VjN3VQcWFlL2w2SW1GVFJ2VERkK2FoRDByUmlZdDFWWldpdlpvRzRtU2xDamc9PTpZSEdKWndGYVVFL0R4a2ZPU21XaVFRPT0YgbH
+#EXTINF:-1, red
+https://delivery-node-guirguis.voe-network.net/hls/,6oarke2dr423cszcrzv47ktu5dkl6p66a4wbu7i3c7dv2qcnhbaiiasxwedq,.urlset/master.m3u8
 
 
 
 
 
 #EXTINF:-1, serie
-https://fvs.io/redirector?token=V2t6Y0NHcG5CUlpzYWx1SHM4UVZ0anZQR3VDN2tGbzFRQUpJVE4zbWRHTUdYNFBQakpWQkxybVM3WEdjZUtTQ2c3RUpPWkQyYUVQR3Eva1RxMXd6Vm9KWlFvWk9IWDFCeVYxVy82YTBlOUZPRU1ObTA0N3lVSXk3eWZPaU9ieTVLdmYvNXlwWVVTQjRoaWEzWjNaSjdLL3o3eEVvZ0E9PTpKVjNrQXY0VnoxODh4dU02TWdteVJBPT0PXps
+https://vd254.mycdn.me/?expires=1647664909295&srcIp=201.141.184.142&pr=10&srcAg=UNKNOWN&ms=185.226.52.4&type=2&sig=yL8oOAgtKsY&ct=0&urls=185.226.53.4&clientType=0&id=2323422120620
 
 
 #EXTINF:-1, 
