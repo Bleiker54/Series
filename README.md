@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, ron da error
-https://fvs.io/redirector?token=aklWZ2EvMHhBbHpWMXhSUWV3YVhZMGNha1FQQW5BdGhoTE1mQVcwRWZyZ05tNVRiZHY0Z3V1YjdmaHdNR3Q3V2ZSUVNXb3FRTkx2ZEJweXJNTU8vbENZbjhxN3NqRWxjQTdmdS85VTRuRGhpM3lCZ09LajB6TmZQQVhHeVNiL21WTFJHOWdDZDRyR3FibnlrSVhJeFVrSHBGQmRLeGJXYjJCL2c6cjYvemtuc0l5MTR2dkU3M3ZxTHczdz09MiOV
+#EXTINF:-1, ron da 
+http://streamtape.com/get_video?id=1DYV9dJKaqIejBA&expires=1648488528&ip=FRONKRWNDI9XKxR&token=giWetqUmay0f
 
 
 
