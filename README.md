@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,
-https://s11.zplayer.live/hls/,5fxcugikxcnufvsa6iie7wwx46cn4kr5ii4weo7dyjn7qhy56x6fd3u743uq,.urlset/master.m3u8
+https://s8.zplayer.live/hls/,5fxcvec4xgnufvsa6ifu7bmpwmqerlp5m2uu62runwgezi4lzoatp6m5bsaa,.urlset/master.m3u8
 
 #EXTINF:-1,
-https://s11.zplayer.live/hls/,5fxcvxqkxcnufvsa6iie7wwx47ypub2bgjgxwfo7wm5eldrgunutbv6h4cya,.urlset/master.m3u8
+https://s8.zplayer.live/hls/,5fxcvec4xgnufvsa6ifu7bmpwmqerlp5m2uu62runwgezi4lzoazt6m5bsaa,.urlset/master.m3u8
 
 #EXTINF:-1,
-https://fvs.io/redirector?token=Y1dsU1JiOUg1VXBoMTBCTkNmVk8xb3RET1dXUFo0TTlMdWZ0ZFRjKzErN1gvUG94Sm1iUnhKZFNrcHFJVnhhR05tM1pxcDRLbkZ6Q2R3Z3d6aEQwYzlHZDByRTJXOFJxYkZoaFp3UTZ1MHZRaVM5aXNDdEtSSjQ4NXNLSVpsaXZTQUEwbThVWUlGZXdlRVFlNWVCY3ZWaW40RG9HTUFSWmpaTVY6M0c2M29lUXQ5V1ZwRFhtZWJLTUkwUT09Nowm
+https://fvs.io/redirector?token=MUlBZGhUTS8xZkxsQ0RvM1lUeWxjMm85UFdaWFRNczg4U1E2VlZJZ21QaTk5d29NUVo5eGp3ZHY4QlJPUHZIeGk5ZjFYdHhZeXJIbkt1bWNLVzRDK2VMQmhML05EWjBxOThpekc4bnRNTlZCQ3BkcnpCRUs2RlZ4eXFoUjE3UU5rQ2FUa21ZQVNIakUyTXljbkZQRkMwczh0b0JWcGRTWHhwTTg6UlVFV2I0ang2Umx0TTl3U3c2NXd5UT09LHje
 
 #EXTINF:-1, T1 CAP
 
