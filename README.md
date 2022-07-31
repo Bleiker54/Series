@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,
-https://s8.zplayer.live/hls/,5fxcvec4xgnufvsa6ifu7bmpwmqerlp5m2uu62runwgezi4lzoatp6m5bsaa,.urlset/master.m3u8
+https://fvs.io/redirector?token=WkFRL2FnUmlOSW1IMk1CVnNKeU5GbEhvdzBZRURlRk41WUFzcVh1eGlJTWZqdXYwUC8zTms5S3RJV0ovQlVzTE45Wk9ZTng3R2VSeGtnM050ZWJ3Q2hieWFvME0zaW40aE5RNmk0Vm10Kzl3aUFYMi8vYTN1bzA5ZFJEZWxONWFIRW1mSngzNVczOTBNbWp2NlRUWUtISXZldFlFMDhGNGg3TGo6eHg3cDhQTE9xeHBiRyszN0F6dGJLUT09ueIr
 
 #EXTINF:-1,
 https://s8.zplayer.live/hls/,5fxcvec4xgnufvsa6ifu7bmpwmqerlp5m2uu62runwgezi4lzoazt6m5bsaa,.urlset/master.m3u8
