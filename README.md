@@ -5,9 +5,9 @@ https://fvs.io/redirector?token=Wkx2OGU5VzIwMWZBdHZ4SUJDSFlXSmRHREVhTE9zL3ZVek10
 
 #EXTINF:-1, 
 
-#EXTINF:-1, 50
+#EXTINF:-1,
 
-#EXTINF:-1, T1 CA
+#EXTINF:-1,
 
 
 #EXTINF:-1, advent 5
