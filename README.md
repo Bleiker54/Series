@@ -20,7 +20,7 @@ https://www2122.ff-05.com/token=rDSZ0OkCv_KLnrTf7CglCg/1673696916/189.217.0.0/20
 
 
 #EXTINF:-1,
-
+https://www277.ff-01.com/token=kiwOTJtfuzGYoS1exfrSQQ/1674013171/189.217.0.0/95/3/18/7d7250f8e21bd099da9de287ba773183-480p.mp4
 
 #EXTINF:-1,
 
