@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, 
-https://861114317.tapecontent.net/radosgw/wDeRZvM9Y9TJwbq/uzICXwP-9bpdspTIZOnRRQGJQbj1rf6U251WsfLGDA5oWh90vz5ot0ZoAOtxUPJJRbFemhGUQT1RFoCEaKHVpkuvZVF3374fR_2IOTp0LbjE92XQ2qWZJwKw5bUxy_47mXGF-Q-i3vvAg91HcEjasffJV6yAPZegngnqEqUlVxEyYamWbUApQnfxqmDNnn4sGGcrAS1qHgV4g1t_qG9Aw0f5iZm1nDun22RwnS65pGOQuM7vm7jhHH41uzctsFBl_f4S_RytqRwLO6Ez49rzGFIUGMhASASbziRilMT9uT3iVajHhIYxnnRBncyTxZ7qZaqtRkJJfAnAb7ro/164268--0df8342e-22c1-4f45-927c-1c97332802da--epta--1160584-streamtape.mp4
+https://ok.ru/videoembed/28440070676
 
-#EXTINF:-1,
-https://www339.ff-01.com/token=ujaCeIPIoaXu7CDg12VoAQ/1673680669/189.217.0.0/149/2/0b/eb82083eb2c89a45ab0cbe166a4840b2-720p.mp4
 
-#EXTINF:-1,
-https://www10.ff-01.com/token=A3eKnpfBdy03JO7A0EPqnA/1673696613/189.217.0.0/51/e/02/
+
