@@ -1,9 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, 
-https://ok.ru/videoembed/28440070676
+http://192.168.0.3:4445/Harry+potter+1.mkv
 
-#EXTM3U
+#EXTM3U:-1,
+Harr
 
 
 
