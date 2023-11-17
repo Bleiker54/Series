@@ -1,9 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, 
-http://127.0.0.1:4445/Harry+potter+1+id_671+4445.mkv
+http://192.168.0.8:4445/v.mkv
 
 #EXTM3U:-1,
+
 Harr
 
 
